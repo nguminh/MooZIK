@@ -1,0 +1,12 @@
+{
+  "name": "moozik-bot",
+  "version": "1.0.0",
+  "description": "plays music",
+  "license": "ISC",
+  "author": "Minh Nguyen",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
